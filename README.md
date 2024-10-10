@@ -4,7 +4,7 @@ October 10, 2024
 # Minimal Playwright Java Example
 
 Use the Java version of Playwright to 
-print the title of https://www.google.com.
+print the title of http://www.google.com.
 
 To run, execute this script:
 
